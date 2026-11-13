@@ -3,9 +3,6 @@
 <h3 align="left">Let's Connect</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/amberjon/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
-<a href="mailto:ambjones786@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="40" height="40"/> </a>
-<a href="https://devpost.com/ammbberr" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/devpost/003E54" alt="devpost" width="40" height="40"/> </a>
-<a href="https://discord.com/users/ammbberr" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord" width="40" height="40"/> </a>
 </p>
 
 
